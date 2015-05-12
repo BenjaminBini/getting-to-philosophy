@@ -1,6 +1,6 @@
 {
   "name": "getting-to-philosophy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Everything leads to philosophy",
   "author": "Benjamin Bini <benjamin@bini.io>",
   "main": "lib/getting-to-philosophy",
