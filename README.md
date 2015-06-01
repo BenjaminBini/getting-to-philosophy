@@ -17,7 +17,6 @@ npm install --save getting-to-philosophy
 ### start(page, print, callback)
 
 * page : the starting wikipedia page name
-* print : boolean, if true, the pages name will be logged in the console
 * callbackEach : function called after each new page is reached
 	* the page name is passed as a paramter to the function
 * callback : function called after start function ends
