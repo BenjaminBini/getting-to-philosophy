@@ -18,13 +18,17 @@ npm install --save getting-to-philosophy
 
 * page : the starting wikipedia page name
 * print : boolean, if true, the pages name will be logged in the console
+* callbackEach : function called after each new page is reached
+	* the page name is passed as a paramter to the function
 * callback : function called after start function ends
 	* an array containing all the pages name is passed as a parameter to the callback function
 
 ```
 var gettingToPhilosophy = require('getting to philosophy');
 
-gettingToPhilosophy.start('Paris', true, function (path) {
+gettingToPhilosophy.start('Paris', function (pageName) {
+	console.log(pageName)
+}, function (path) {
 	console.log(path);
 });
 ```
