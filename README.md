@@ -18,7 +18,7 @@ npm install --save getting-to-philosophy
 
 * page : the starting wikipedia page name
 * callbackEach : function called after each new page is reached
-	* the page name is passed as a paramter to the function
+	* the page name is passed as a parameter to the function
 * callback : function called after start function ends
 	* an array containing all the pages name is passed as a parameter to the callback function
 
