@@ -14,7 +14,7 @@ npm install --save getting-to-philosophy
 
 ## Usage
 
-### start(page, print, callback)
+### start(page, callbackEach, callback)
 
 * page : the starting wikipedia page name
 * callbackEach : function called after each new page is reached
