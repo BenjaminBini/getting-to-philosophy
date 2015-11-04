@@ -1,3 +1,5 @@
+![npm version](https://img.shields.io/npm/v/getting-to-philosophy.svg) ![npm license](https://img.shields.io/npm/l/getting-to-philosophy.svg)
+
 # Getting to philosophy
 
 [As you may know](http://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy), if you go to any page on Wikipedia and keep clicking on the first link of the page (ignoring meta links, links between parenthesis and the ones in italic), you will eventually reach the [Philosophy article](http://en.wikipedia.org/wiki/Philosophy).
