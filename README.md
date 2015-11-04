@@ -1,4 +1,4 @@
-![npm version](https://img.shields.io/npm/v/getting-to-philosophy.svg) ![npm license](https://img.shields.io/npm/l/getting-to-philosophy.svg)
+![npm version](https://img.shields.io/npm/v/getting-to-philosophy.svg) ![npm license](https://img.shields.io/npm/l/getting-to-philosophy.svg) ![npm download count](https://img.shields.io/npm/dt/getting-to-philosophy.svg)
 
 # Getting to philosophy
 
