@@ -24,7 +24,7 @@ npm install --save getting-to-philosophy
 * callback : function called after start function ends
 	* an array containing all the pages name is passed as a parameter to the callback function
 
-```
+```javascript
 var gettingToPhilosophy = require('getting-to-philosophy');
 
 gettingToPhilosophy.start('Paris', function (pageName) {
